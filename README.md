@@ -1,5 +1,4 @@
-[![LEGENDBOT]([https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
-
+https://te.legra.ph/file/59bc8f7d13c6df9f778b7.jpg
 
 <h1 align="center">
 <b> 『Tornadoẞø†』 </b>
