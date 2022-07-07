@@ -155,4 +155,4 @@
 </details>
 
 
-> Made with 💕 by [@LegendBot_XD](https://t.me/LegendBot_XD).    
+> Made with 💕 by [    
