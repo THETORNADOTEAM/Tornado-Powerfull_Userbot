@@ -1,8 +1,8 @@
-[![LEGENDBOT]([https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg](https://te.legra.ph/file/59bc8f7d13c6df9f778b7.jpg))](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![LEGENDBOT]([https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
 
 
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』 </b>
+<b> 『Tornadoẞø†』 </b>
 </h1>
 
 <h6 align="center">
