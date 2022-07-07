@@ -1,4 +1,5 @@
-https://te.legra.ph/file/59bc8f7d13c6df9f778b7.jpg
+![photo_2022-07-07_10-00-41](https://user-images.githubusercontent.com/87700009/177829664-6a91a9d3-a3d1-4a2c-8d91-1936177116ad.jpg)
+
 
 <h1 align="center">
 <b> 『Tornadoẞø†』 </b>
