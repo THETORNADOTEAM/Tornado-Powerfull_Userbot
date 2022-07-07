@@ -1,4 +1,4 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![LEGENDBOT]([https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg](https://te.legra.ph/file/59bc8f7d13c6df9f778b7.jpg))](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
 
 
 <h1 align="center">
@@ -6,11 +6,11 @@
 </h1>
 
 <h6 align="center">
-  <b>⚡ Presenting a LegendBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
+  <b>⚡ Presenting a TornadoBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
 </h6>
 
 
-[![](https://te.legra.ph/file/59bc8f7d13c6df9f778b7.jpg)](#)
+)
 [![Stars](https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?style=flat-square&color=yellow)](https://github.com/LEGEND-AI/LEGENDBOT/stargazers)
 [![Forks](https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?style=flat-square&color=orange)](https://github.com/LEGEND-AI/LEGENDBOT/fork)
 [![Size](https://img.shields.io/github/repo-size/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/)   
